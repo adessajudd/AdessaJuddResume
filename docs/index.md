@@ -6,7 +6,7 @@ title: Adessa Judd's Resume
 
 
 <div id="webaddress">
-<a href="jud19007@byui.edu"</a>
+<a href="jud19007@byui.edu>"</a>
 | <a href="https://www.linkedin.com/in/adessajudd/">LinkedIn</a>
 | <a href="https://github.com/adessajudd">GitHub</a>
 </div>
