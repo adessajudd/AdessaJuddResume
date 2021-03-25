@@ -15,12 +15,12 @@ title: Adessa Judd's Resume
 
 ## Education 
 
-`2019-Current`
+`2019 - Current`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Data Science Major, Statistics Minor 
 
-- 3.9 GPA
+- 3.9 GPA 
 
 
 ## Related Experience
