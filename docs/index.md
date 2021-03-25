@@ -6,19 +6,19 @@ title: Adessa Judd's Resume
 
 
 <div id="webaddress">
-<a href="jud19007@byui.edu>"</a>
+<a href="jud19007@byui.edu">jud19007@byui.edu</a>
 | <a href="https://www.linkedin.com/in/adessajudd/">LinkedIn</a>
 | <a href="https://github.com/adessajudd">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
+## Education 
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-Current`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Data Science Major, Statistics Minor
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
