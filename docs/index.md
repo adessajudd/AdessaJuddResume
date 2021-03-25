@@ -20,11 +20,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Data Science Major, Statistics Minor
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
 
 ## Related Experience
 
